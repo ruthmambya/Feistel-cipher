@@ -7,7 +7,7 @@ BernoulliNB implements the naive Bayes training and classification algorithms fo
 # Install the Project
 
 ```
-$ git clone https://github.com/Junior-081/-Bernouilli-Naive-Bayes.git
+$ https://github.com/Junior-081/Bernouilli-Naive-Bayes.git
 ```
 
 ```
