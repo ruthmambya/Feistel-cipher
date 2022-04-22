@@ -60,7 +60,7 @@ $ python3 train.py
 
 To Test
 ```
-$ python3 test.py
+$ python3 test.py -text "my document must be here"
 
 ```
 
