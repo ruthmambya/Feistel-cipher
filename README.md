@@ -1,5 +1,7 @@
 # Problem understanding (Bernoulli Naive Bayes)
 
+## Sentiment Analysis
+
 BernoulliNB implements the naive Bayes training and classification algorithms for data that is distributed according to multivariate Bernoulli distributions; i.e., there may be multiple features but each one is assumed to be a binary-valued (Bernoulli, boolean) variable. Therefore, this class requires samples to be represented as binary-valued feature vectors; if handed any other kind of data, a BernoulliNB instance may binarize its input (depending on the binarize parameter).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rrDMZm90kBRAh1HnLpI_5XhnVaTaIDxX?usp=sharing)
